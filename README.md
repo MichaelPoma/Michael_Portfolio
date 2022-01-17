@@ -1,4 +1,4 @@
-# Michael Poma: Data Science Portfolio
+# Data Science Portfolio
 
 ## [Project 1: University Grant Predictions Interpretability Tool: Project Overview](https://github.com/MichaelPoma/ds_melbourne_grant_predictions_proj)
 - Built a visual interpretability tool for a university grant prediction model developed in a Kaggle competition **(Nutritional Label)**
