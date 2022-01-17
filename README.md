@@ -9,7 +9,7 @@
 - Measured the group fairness through disparate impact and statistical parity (Fairness)
 <p align="center"><img alt="Nutritional Label" src="images/nutritional_label.png" width="90%"></p>
 
-## [Project 2: Data Science Air Pollution Predictions: Project Overview](https://github.com/MichaelPoma/ds_air_pollution_predictions_proj)
+## <a href="https://github.com/MichaelPoma/ds_air_pollution_predictions_proj" target="_blank">Project 2: Data Science Air Pollution Predictions: Project Overview</a>
 - Created models to help meteorologists estimate air pollution measurements (RMSLE ~ 0.233)
 - Trained over 7000 entries of weather information and sensor data measurements
 - Performed time series decomposition to visualize seasonality, trend, and residual patterns in data
@@ -18,7 +18,7 @@
 - Placed in top 27% of *Kaggle Tabular Playground Series - Jul 2021* competition
 <p align="center"><img alt="Seasonality Decomposition" src="images/seasonality_decomposition.png" width="90%"></p>
 
-## [Project 3: Data Science SHAP Explanations: Project Overview](https://github.com/MichaelPoma/ds_20newsgroups_shap_explanations_proj)
+## <a href="https://github.com/MichaelPoma/ds_20newsgroups_shap_explanations_proj" target="_blank">Project 3: Data Science SHAP Explanations: Project Overview</a>
 - Created a classifier to classify documents based on religious sentiment (accuracy ~ 91%)
 - Preprocessed data using a TfidfVectorizer to transform text to feature vectors and filter out uncommon words
 - Identified words that contributed to misclassification of documents and in which documents
