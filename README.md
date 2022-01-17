@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-## <a href="https://github.com/MichaelPoma/ds_melbourne_grant_predictions_proj" target="_blank"><em>Project 1: University Grant Predictions Interpretability Tool</em></a>
+## <a href="https://github.com/MichaelPoma/ds_melbourne_grant_predictions_proj" target="_blank"><b>Project 1: University Grant Predictions Interpretability Tool</b></a>
 - Built a visual interpretability tool for a university grant prediction model developed in a Kaggle competition **(Nutritional Label)**
 - Engineered missing data and one-hot encoded categorial values
 - Investigated attribute weights and disparities within Birth Country and Home Language features (Recipe & Diversity)
