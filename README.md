@@ -1,7 +1,8 @@
 # Data Science Portfolio
 
 ## <a href="https://github.com/MichaelPoma/gta_online_hacker_detection" target="_blank"><b>Project 1:</b> Hacker Detection NYU 2022 Rockstar Games Datathon</a>
-- Identified 500+ plausible hackers in GTA Online player base with insights from domain knowledge
+- Identified 500+ plausible hackers in GTA Online player base for Rockstar developers
+- Drew insights from player activity and personal domain knowledge of the game
 - Deemed hacker if exceeded upper bound of predicted character rank for a given session
 - Built 5 models with ensembling AdaBoost classifier as best for scalability with AUC of 0.81
 - Showcased by professor to present project in machine learning lecture to 150+ students
