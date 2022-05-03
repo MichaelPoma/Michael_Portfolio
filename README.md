@@ -5,7 +5,7 @@
 - Deemed suspicious players if exceeded upper bound of predicted character rank for a given session
 - Built 5 models and chose ensembling AdaBoost classifier as best for scalability with AUC of 0.81
 - Showcased by professor to present project in machine learning lecture to 150+ students
-<p align="center"><img alt="Nutritional Label" src="images/gta_auc_curves.png" width="95%"></p>
+<p align="center"><img alt="GTA Online AUC curves" src="images/ROC_curves.png" width="95%"></p>
 
 ## <a href="https://github.com/MichaelPoma/ds_melbourne_grant_predictions_proj" target="_blank"><b>Project 1:</b> University Grant Predictions Interpretability Tool</a>
 - Built a visual interpretability tool for a university grant prediction model developed in a Kaggle competition **(Nutritional Label)**
