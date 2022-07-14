@@ -1,15 +1,11 @@
 # Data Science Portfolio
 
-<h3 align="center">MichaelPoma.PythonAnywhere.com</h3>
-
-<a href="http://MichaelPoma.PythonAnywhere.com" target="_blank"><b>MichaelPoma.PythonAnywhere.com</b></a>
-
 ## <a href="https://github.com/MichaelPoma/cod_warzone_api_dashboard" target="_blank"><b>Project 1:</b> Call of Duty: Warzone API Player Dashboard</a>
 - Developed interactive, real-time dashboard of lifetime, weekly, and recent game data for Warzone players
 - Retrieved statistics from Call of Duty API based on user gamertag and platform with data validation
 - Publically available for current, past, and future Call of Duty: Warzone players
 - Deployed web app via Flask for continuous uptime and availability
-<h3 align="center">MichaelPoma.PythonAnywhere.com</h3>
+<h3><a align="center" href="http://MichaelPoma.PythonAnywhere.com" target="_blank"><b>MichaelPoma.PythonAnywhere.com</b></a><h3>
 <p align="center"><img alt="Warzone API Dashboard" src="images/warzone_dashboard.png" width="95%"></p>
 
 ## <a href="https://github.com/MichaelPoma/gta_online_hacker_detection" target="_blank"><b>Project 2:</b> Hacker Detection NYU 2022 Rockstar Games Datathon</a>
