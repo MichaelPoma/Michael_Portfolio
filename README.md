@@ -5,7 +5,7 @@
 - Retrieved statistics from Call of Duty API based on user gamertag and platform with data validation
 - Publically available for current, past, and future Call of Duty: Warzone players
 - Deployed web app via Flask for continuous uptime and availability
-<p align="center" font-size="150%">MichaelPoma.PythonAnywhere.com</p>
+<h3 align="center">MichaelPoma.PythonAnywhere.com</h3>
 <p align="center"><img alt="Warzone API Dashboard" src="images/warzone_dashboard.png" width="95%"></p>
 
 ## <a href="https://github.com/MichaelPoma/gta_online_hacker_detection" target="_blank"><b>Project 2:</b> Hacker Detection NYU 2022 Rockstar Games Datathon</a>
